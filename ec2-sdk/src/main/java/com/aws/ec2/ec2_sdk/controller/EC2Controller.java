@@ -1,4 +1,4 @@
-package com.aws.ec2.controller;
+package com.aws.ec2.ec2_sdk.controller;
 
 import org.springframework.web.bind.annotation.*;
 import software.amazon.awssdk.auth.credentials.ProfileCredentialsProvider;
